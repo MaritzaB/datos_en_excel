@@ -4,9 +4,7 @@ title: Metadatos
 description: Cómo agregar metadatos a un archivo de datos en Excel
 ---
 
-Los metadatos proporcionan información adicional sobre los datos. Existen diversas convenciones para estandarizar metadatos. La presente guía fue inspirada en [_NetCDF Climate and Forecast Metadata Conventions_ (CF Conventions)](http://cfconventions.org) y [Frictionless Data Specifications](http://specs.frictionlessdata.io/).
-
-La tabla siguiente muestra la lista de matadatos reconocidos por este protocolo. La columna _Tipo_ indica si el metadato es para toda la tabla o sólo para una columna.
+Los metadatos proporcionan información adicional sobre los datos. La tabla siguiente muestra la lista de matadatos reconocidos por este protocolo. La columna _Tipo_ indica si el metadato es para toda la tabla o sólo para una columna.
 
 Metadato           | Tipo    | Descripción
 -------------------|---------|-------------

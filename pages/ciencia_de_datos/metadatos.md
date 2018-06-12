@@ -4,6 +4,8 @@ title: Metadatos
 description: Cómo agregar metadatos a un archivo de datos en Excel
 ---
 
+Los metadatos proporcionan información adicional sobre los datos. Existen diversas convenciones para estandarizar metadatos. La presente guía fue inspirada en [_NetCDF Climate and Forecast Metadata Conventions_ (CF Conventions)](http://cfconventions.org) y [Frictionless Data Specifications](http://specs.frictionlessdata.io/).
+
 Los conceptos **atributo** (CF Conventions) y **propiedad** (Frictionless Data) son sinónimos en esta guía y se refieren al nombre de un metadato (ver tabla de sinónimos abajo). Una descripción más detallada de los metadatos se puede encontrar en el [apéndice A: Atributos](http://cfconventions.org/cf-conventions/cf-conventions.html#attribute-appendix) de la convención CF y en las diferenctes especificaciones de [Frictionless Data](http://specs.frictionlessdata.io/).
 
 Aquí hay una tabla de sinónimos de conceptos definidos por CF Convetions y Frictionless Data.
@@ -52,3 +54,7 @@ Metadato           | Uso      | Descripción
 `nombre_largo`     | Variable | Traducción al espanol de `long_name`
 `standard_name`    | Variable | [A standard name that references a description of a variable's content in the standard name table](http://cfconventions.org/standard-names.html)
 `units`            | Variable | [Units of a variable's content](http://www.unidata.ucar.edu/software/udunits/udunits.txt)
+
+---
+
+Inicio: [Protocolo para analistas de datos](index.html)
