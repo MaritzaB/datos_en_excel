@@ -1,0 +1,7 @@
+---
+layout: page
+title: Validar un archivo de Excel
+description: Cómo verificar si un archivo de Excel cumple con este protocolo
+---
+
+## Cómo verificar si un archivo de Excel cumple con este protocolo.

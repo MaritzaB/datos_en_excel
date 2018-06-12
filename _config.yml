@@ -8,7 +8,7 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : datos en excel
+title : Protocolo para guardar datos en Excel
 author :
   name : Evaristo Rojas
   email : evaristo.rojas@islas.org.mx
