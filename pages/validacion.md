@@ -10,4 +10,4 @@ Esta sección describe cómo verificar si un archivo de Excel cumple con este pr
 
 Siguiente: [Referencias](referencias.html).
 
-(Anterior: [Metadatos](metadatos.html).)
+(Anterior: [Fecha y hora](pages/tiempo.html).)

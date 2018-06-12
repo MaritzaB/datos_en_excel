@@ -8,7 +8,12 @@ En GECI seguimos este protocolo para guardar datos en excel. Seguir este protoco
 
 ### Contenido
 
+- [Introducción](pages/intro.html)
+- [Datos](pages/datos.html)
 - [Metadatos](pages/metadatos.html)
+    - [Nombre estándar](pages/standard_name.html)
+    - [Variables independientes](pages/axis.html)
+- [Fecha y hora](pages/tiempo.html)
 - [Validar un archivo de Excel](pages/validacion.html)
 - [Referencias](pages/referencias.html)
 

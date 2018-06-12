@@ -26,6 +26,6 @@ Metadato           | Tipo    | Descripción
 
 ---
 
-Siguiente: [Validar un archivo de Excel](validacion.html).
+Siguiente: [Nombre estándar](pages/standard_name.html).
 
-(Inicio: [datos en excel](../index.html).)
+(Anterior: [Datos](pages/datos.html).)
