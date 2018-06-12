@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Referencias
-description: Lista de referencias en las que se inspiró este protocolo
+description: Lista de referencias en las que se inspirÃ³ este protocolo
 ---
 
 Este protocolo para guardar datos en Excel fue inspirado en las referencias siguientes:
