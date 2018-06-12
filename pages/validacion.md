@@ -5,3 +5,9 @@ description: Cómo verificar si un archivo de Excel cumple con este protocolo
 ---
 
 Esta sección describe cómo verificar si un archivo de Excel cumple con este protocolo.
+
+---
+
+Siguiente: [Referencias](referencias.html).
+
+(Inicio: [datos en excel](../index.html).)
