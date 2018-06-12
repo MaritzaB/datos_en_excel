@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Ciencia de Datos &mdash; GECI
+title: datos en excel
 description: Protocolo para guardar datos en Excel para ser procesados por el equipo de Ciencia de Datos de GECI
 ---
+
+En GECI seguimos este protocolo para guardar datos en excel. Seguir este protocolo nos permite compartir datos entre proyectos distintos, agregar datos colectados en temporadas distintas, automatizar análisis, presentar nuestros resultados de manera homogénea y personalizar los resultados sin necesidad de programar.
 
 ### Contenido
 
