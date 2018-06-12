@@ -33,6 +33,6 @@ Es indispensable incluir en los atributos de las variables el `long_name` y `nom
 
 ---
 
-Siguiente: [Datos](pages/datos.html).
+Siguiente: [Datos](datos.html).
 
 (Inicio: [datos en excel](../index.html).)

@@ -29,6 +29,6 @@ Standard Name                       | Long Name                  | Nombre Largo 
 
 ---
 
-Siguiente: [Variables independientes](pages/axis.html).
+Siguiente: [Variables independientes](axis.html).
 
-(Anterior: [Metadatos](pages/metadatos.html).)
+(Anterior: [Metadatos](metadatos.html).)

@@ -26,6 +26,6 @@ Metadato           | Tipo    | Descripción
 
 ---
 
-Siguiente: [Nombre estándar](pages/standard_name.html).
+Siguiente: [Nombre estándar](standard_name.html).
 
-(Anterior: [Datos](pages/datos.html).)
+(Anterior: [Datos](datos.html).)

@@ -12,6 +12,6 @@ El tiempo se debe escribir entonces como:
 Un ejemplo de esto es: `2015-09-18T10:40:47`.
 ---
 
-Siguiente: [Validar un archivo de Excel](pages/validacion.html).
+Siguiente: [Validar un archivo de Excel](validacion.html).
 
-(Anterior: [Variables independientes](pages/axis.html).)
+(Anterior: [Variables independientes](axis.html).)

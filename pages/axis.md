@@ -18,6 +18,6 @@ Y     | Coordenada meridional                 | `latitude`, `projection_y_coordi
 Z     | Altitud                               | `altitude`
 ---
 
-Siguiente: [Fecha y hora](pages/tiempo.html).
+Siguiente: [Fecha y hora](tiempo.html).
 
-(Anterior: [Nombre est?ndar](pages/standard_name.html).)
+(Anterior: [Nombre est?ndar](standard_name.html).)
