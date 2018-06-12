@@ -8,7 +8,6 @@ En GECI seguimos este protocolo para guardar datos en excel. Seguir este protoco
 
 ### Contenido
 
-- [Metadatos](pages/metadatos.html)
 - [Validar un archivo de Excel](pages/validacion.html)
 - [Referencias](pages/referencias.html)
 
@@ -19,9 +18,3 @@ La versión original de este protocolo se basó en el tutorial [_data organizati
 > Broman KW, Woo KH (2018) Data organization in spreadsheets.
 > _The American Statistician_ 78:2&ndash;10
 > ([doi:10.1080/00031305.2017.1375989](https://doi.org/10.1080/00031305.2017.1375989))
-
----
-
-**Información adicional**:
-
-- [Protocolo para analistas de datos](pages/ciencia_de_datos/index.html)
