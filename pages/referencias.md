@@ -14,6 +14,6 @@ El autor de este protocolo se inspiró en las referencias siguientes:
 
 ---
 
-Inicio: [datos en excel](../index.html)
+Inicio: [datos en excel](../index.html).
 
 (Anterior: [Validar un archivo de Excel](validacion.html).)
