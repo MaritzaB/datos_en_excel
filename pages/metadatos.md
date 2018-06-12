@@ -1,3 +1,11 @@
+---
+layout: page
+title: Metadatos
+description: Cómo agregar metadatos a un archivo de datos en Excel
+---
+
+Los metadatos proporcionan información adicional sobre los datos. Existen diversas convenciones para estandarizar metadatos. La presente guía fue inspirada en [_NetCDF Climate and Forecast Metadata Conventions_ (CF Conventions)](http://cfconventions.org) y [Frictionless Data Specifications](http://specs.frictionlessdata.io/).
+
 La tabla siguiente muestra la lista de matadatos reconocidos por este protocolo. La columna _Tipo_ indica si el metadato es para toda la tabla o sólo para una columna.
 
 Metadato           | Tipo    | Descripción
@@ -17,3 +25,9 @@ Metadato           | Tipo    | Descripción
 `nombre_largo`     | Columna | Traducción al espanol de `long_name`
 `standard_name`    | Columna | [A standard name that references a description of a variable's content in the standard name table](http://cfconventions.org/standard-names.html)
 `units`            | Columna | [Units of a variable's content](http://www.unidata.ucar.edu/software/udunits/udunits.txt)
+
+---
+
+Siguiente: [Validar un archivo de Excel](validacion.html).
+
+(Inicio: [datos en excel](../index.html).)

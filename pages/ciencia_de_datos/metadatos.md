@@ -1,3 +1,28 @@
+---
+layout: page
+title: Metadatos
+description: Cómo agregar metadatos a un archivo de datos en Excel
+---
+
+Los conceptos **atributo** (CF Conventions) y **propiedad** (Frictionless Data) son sinónimos en esta guía y se refieren al nombre de un metadato (ver tabla de sinónimos abajo). Una descripción más detallada de los metadatos se puede encontrar en el [apéndice A: Atributos](http://cfconventions.org/cf-conventions/cf-conventions.html#attribute-appendix) de la convención CF y en las diferenctes especificaciones de [Frictionless Data](http://specs.frictionlessdata.io/).
+
+Aquí hay una tabla de sinónimos de conceptos definidos por CF Convetions y Frictionless Data.
+
+CF Convetions  | Frictionless Data
+---------------|------------------
+Attribute      | Property
+Root group (/) | Data Package (o Tabular Data Package)
+Group          | Resource
+Variable       | Field
+
+Cada metadato describe un elemento en alguno de los tres niveles de un conjunto de datos:
+
+1. **Variable**. Es el elemento fundamental de un conjunto de datos. Es el contenedor directo de cada dato. Se refiere a una columna de una tabla o a un escalar. También podría referirse a un vector o una matriz. Equivale al concepto de [campo (field)](http://specs.frictionlessdata.io/table-schema/#field-descriptors) en los [paquetes de datos tabulados](http://specs.frictionlessdata.io/tabular-data-package/)
+1. **Recurso**. Es un conjunto de _variables_. Puede referirse a una tabla (_data frame_) en el sentido de _tidy data_. También podría referirse a una estructura de MATLAB o un diccionario de Python. En [NetCDF](http://www.unidata.ucar.edu/software/netcdf/docs/netcdf_data_set_components.html) se le llaman [Grupos](http://www.unidata.ucar.edu/software/netcdf/workshops/2011/groups-types/GroupsIntro.html) mientras que en la especificación de [_Frictionless Data_](http://specs.frictionlessdata.io/) se le conoce como [Recurso](http://specs.frictionlessdata.io/data-resource/)
+1. **Paquete**. Es un conjunto de _tablas_ y constituye el nivel más alto de un conjunto de datos. Los metadatos que describen un _paquete_ se encuentran en la raíz del archivo descriptor de un [Data Package](http://specs.frictionlessdata.io/data-package/) o son los metadatos globales del gupo raíz (root o `/`) de un archivo NetCDF.
+
+La tabla siguiente muestra la lista de matadatos reconocidos por este protocolo.
+
 Metadato           | Uso      | Descripción
 -------------------|----------|-------------
 `name`             | Paquete  | [A short url-usable (and preferably human-readable) name of the package](http://specs.frictionlessdata.io/data-package/#name)
