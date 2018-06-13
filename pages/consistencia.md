@@ -16,7 +16,7 @@ La primera regla de la organización de datos es *ser consistente*.
 
 - **Usa el formato `DD/MMM/AAAA` para todas las fechas** Por ejemplo, `07/Oct/1998`, `01/Ene/2000`, etc.
 
-- **Ten cuidado con los espacios dentro de las celdas.** Una celda en blanco es diferente de una celda que contiene un solo espacio. Y "` macho`" es diferente de "` macho `" (es decir, con espacios en el principio y fin). Estos pueden ser un dolor de cabeza más adelante.
+- **Ten cuidado con los espacios dentro de las celdas.** Una celda en blanco es diferente de una celda que contiene un solo espacio. Y "` macho`" es diferente de "`macho `" (es decir, con espacios en el principio y fin). Estos pueden ser un dolor de cabeza más adelante.
 
 ---
 
