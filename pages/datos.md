@@ -55,6 +55,6 @@ El primer renglón de la tabla de datos debe contener nombres únicos para cada 
 A veces, la cantidad de unidades es un buen indicador del número de columnas que se debe tener, considerando que todos los datos que resultan de conteos tienen el mismo tipo de unidad.
 ---
 
-Siguiente: [Se consistente](pages/consistencia.html).
+Siguiente: [Se consistente](consistencia.html).
 
 (Anterior: [Introducción](intro.html).)

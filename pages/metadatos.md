@@ -28,4 +28,4 @@ Metadato           | Tipo    | Descripción
 
 Siguiente: [Nombre estándar](standard_name.html).
 
-(Anterior: [Se consistente](pages/consistencia.html).)
+(Anterior: [Se consistente](consistencia.html).)
