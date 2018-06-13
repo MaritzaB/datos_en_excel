@@ -20,4 +20,4 @@ Z     | Altitud                               | `altitude`
 
 Siguiente: [Fecha y hora](tiempo.html).
 
-(Anterior: [Nombre est?ndar](standard_name.html).)
+(Anterior: [Nombre estándar](standard_name.html).)
