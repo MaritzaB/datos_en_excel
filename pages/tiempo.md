@@ -4,12 +4,29 @@ title: Fecha y hora
 description: Formato para guardar fechas y horas
 ---
 
-La fecha y hora deben estar dentro de la misma columna en la hoja de datos siguiendo el estándar [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601#Combined_date_and_time_representations).
-El tiempo se debe escribir entonces como:
+Guarda las fechas y horas en Excel como _texto_, no como fecha ni hora. De lo contrario, Excel guardará internamente la fecha como entero y las horas como una fracción. Y cuando importemos los datos no obtendremos lo mismo que tú viste al momento de guardar el archivo.
 
-**año-mes-díaThora:min:seg**, pero con 19 caracteres sin espacios entre ellos: **AAAA-MM-DDTHH:MM:SS**.
+- Selecciona las celdas con fechas u horas
+- Haz clic con el botón derecho
+- Selecciona "Formato de Celdas..."
+- Selecciona "Texto" del lado izquierdo
 
-Un ejemplo de esto es: `2015-09-18T10:40:47`.
+En los metadatos usa `axis: T` para las columnas que contengan fechas u horas.
+
+Guarda la fecha en una columna y la hora en otra columna.
+
+Para las fechas usa el formato "`DD/MMM/AAAA`", por ejemplo, "`01/Ene/2018`". La fecha es una cadena de exactamente 11 caracteres de longitud.
+
+En los metadatos usa:
+> `standard_name`: `date`
+para las columnas que contengan fechas.
+
+Para las horas usa el formato "`hh:mm:ss`", por ejemplo, "`18:00:00`". La hora es una cadena de exactamente 8 caracteres de longitud.
+
+En los metadatos usa:
+> `standard_name`: `time`
+para las columnas que contengan horas del día.
+
 ---
 
 Siguiente: [Validar un archivo de Excel](validacion.html).
