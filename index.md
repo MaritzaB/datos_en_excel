@@ -15,7 +15,7 @@ En [Conservación de Islas](https://islas.org.mx) seguimos este protocolo para g
 - [Metadatos](pages/metadatos.html)
     - [Nombre estándar](pages/standard_name.html)
     - [Variables independientes](pages/axis.html)
-- [Coordenadas](pages/coordenadas.html)
+- [Sistema de Coordenadas](pages/coordenadas.html)
     - [Coordenadas Geográfica](pages/geograficas.html)
     - [Coordenadas UTM](pages/utm.html)
 - [Fecha y hora](pages/tiempo.html)
