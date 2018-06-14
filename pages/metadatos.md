@@ -4,6 +4,15 @@ title: Metadatos
 description: Cómo agregar metadatos a un archivo de datos en Excel
 ---
 
+- Los metadatos de una tabla de datos se guardan en la segunda hoja de un archivo de Excel.
+- Cada renglón representa una variable y cada columna representa un conjunto de metadatos.
+- La primer columna se usa para indicar el nombre de las variables.
+- El primer renglón contiene los nombres de los metadatos.
+- Un renglón contiene los valores de los metadatos de la tabla completa.
+- En el resto de los renglones contienen los valores de los metadatos de cada variable.
+- La cantidad de renglones en la hoja de metadatos es igual a la suma de la cantidad de columnas de la hoja de datos más dos.
+- Es indispensable incluir en los metadatos de las variables el `long_name` y `nombre_largo` y en los metadatos globales el `title` y `titulo`.
+
 Los metadatos proporcionan información adicional sobre los datos. La tabla siguiente muestra la lista de matadatos reconocidos por este protocolo. La columna _Tipo_ indica si el metadato es para toda la tabla o sólo para una columna.
 
 Metadato           | Tipo    | Descripción

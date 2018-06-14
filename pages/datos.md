@@ -4,6 +4,10 @@ title: Datos
 description: Cómo agregar metadatos a un archivo de datos en Excel
 ---
 
+- La tabla de datos se guardan en la primer hoja de un archivo de Excel.
+- Cada columna representa una variable y cada renglón representa una observación.
+- El primer renglón se usa para indicar el nombre de las variables.
+
 Guía rápida
 -----------
 
