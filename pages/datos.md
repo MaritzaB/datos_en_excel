@@ -57,4 +57,4 @@ A veces, la cantidad de unidades es un buen indicador del número de columnas qu
 
 Siguiente: [Se consistente](consistencia.html).
 
-(Anterior: [Introducción](intro.html).)
+(Anterior: [Resumen](resumen.html).)

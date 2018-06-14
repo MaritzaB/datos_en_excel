@@ -8,7 +8,7 @@ En GECI seguimos este protocolo para guardar datos en excel. Seguir este protoco
 
 ### Contenido
 
-- [Introducción](pages/intro.html)
+- [Resumen](pages/resumen.html)
 - [Datos](pages/datos.html)
     - [Se consistente](pages/consistencia.html)
     - [Ninguna celda vacía](pages/ninguna_celda_vacia.html)
