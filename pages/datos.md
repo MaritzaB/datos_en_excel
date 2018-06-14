@@ -1,18 +1,12 @@
 ---
 layout: page
 title: Datos
-description: Cómo agregar metadatos a un archivo de datos en Excel
+description: Cómo guardar los datos en un archivo en Excel
 ---
 
-Guía rápida
------------
-
-1. Los datos se usan el esquema [_Tidy data_](http://dx.doi.org/10.18637/jss.v059.i10)
-1. Los metadatos siguen la [Convención CF](http://cfconventions.org/Data/cf-conventions/cf-conventions-1.7/build/cf-conventions.html#attribute-appendix) para describir los atributos del conjunto de datos
-1. Los datos y metadatos se empaquetan según el formato [_Tabular Data Package_](http://dataprotocols.org/tabular-data-package/)
-
-Datos
------
+- La tabla de datos se guardan en la primer hoja de un archivo de Excel.
+- Cada columna representa una variable y cada renglón representa una observación.
+- El primer renglón se usa para indicar el nombre de las variables.
 
 Los datos usan el esquema [_Tidy data_](http://dx.doi.org/10.18637/jss.v059.i10). Cada variable es una columna, cada observación es un renglón y cada tipo de unidad observacional es una tabla. Por lo tanto, todos los valores en una misma columna tienen las mismas unidades, mientras que los valores en un mismo renglón pueden tener unidades distintas.
 
@@ -53,8 +47,9 @@ Fecha      | Especie   | Número total de individuos
 
 El primer renglón de la tabla de datos debe contener nombres únicos para cada columna.
 A veces, la cantidad de unidades es un buen indicador del número de columnas que se debe tener, considerando que todos los datos que resultan de conteos tienen el mismo tipo de unidad.
+
 ---
 
 Siguiente: [Se consistente](consistencia.html).
 
-(Anterior: [Introducción](intro.html).)
+(Anterior: [Resumen](resumen.html).)
