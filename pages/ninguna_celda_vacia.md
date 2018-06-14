@@ -163,7 +163,7 @@ Llena todas las celdas así:
     <rect x="1" y="1" width="110" height="26" fill="#E9E9E9" stroke="#969696" stroke-width="1" />
 </svg>
 
-A veces, cuando clasificamos cada valor bajo diferentes categorías es tentador hacer lo siguiente:
+Tampoco fusiones celdas. A veces, cuando clasificamos cada valor bajo diferentes categorías es tentador hacer lo siguiente:
 
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="692px" height="132px" viewBox="0 0 802 132" preserveAspectRatio="xMinYmin meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
@@ -250,7 +250,7 @@ A veces, cuando clasificamos cada valor bajo diferentes categorías es tentador 
     <rect x="1" y="1" width="80" height="26" fill="#E9E9E9" stroke="#969696" stroke-width="1" />
 </svg>
 
-A pesar de que para un humano es fácil interpretar el ejemplo de arriba, para una computadora es tremendamente difícil entender esa tabla.
+Pero al fusionar celdas estás dejando celdas vacías. Además, a pesar de que para un humano es fácil interpretar el ejemplo de arriba, para una computadora es tremendamente difícil entender esa tabla.
 
 Lo que hay que hacer es construir la versión "_tidy_" de esa tabla llenando todas las celdas:
 
