@@ -13,17 +13,11 @@ En Excel:
 - Selecciona "Formato de Celdas..."
 - Selecciona "Texto" del lado izquierdo
 
-En los metadatos usa "`axis: T`" para las columnas que contengan fechas u horas.
+Guarda la fecha en una columna y la hora en otra columna distinta. Usa "`axis: T`" en los metadatos de las columnas que contengan fechas u horas.
 
-Guarda la fecha en una columna y la hora en otra columna.
+Para las fechas usa el formato "`DD/MMM/AAAA`", por ejemplo, "`01/Ene/2018`". La fecha es una cadena de exactamente 11 caracteres de longitud. En los metadatos usa "`standard_name`: `date`".
 
-Para las fechas usa el formato "`DD/MMM/AAAA`", por ejemplo, "`01/Ene/2018`". La fecha es una cadena de exactamente 11 caracteres de longitud.
-
-En los metadatos usa "`standard_name`: `date`" para las columnas que contengan fechas.
-
-Para las horas usa el formato "`hh:mm:ss`", por ejemplo, "`18:00:00`". La hora es una cadena de exactamente 8 caracteres de longitud.
-
-En los metadatos usa "`standard_name`: `time`" para las columnas que contengan horas del día.
+Para las horas usa el formato "`hh:mm:ss`", por ejemplo, "`18:00:00`". La hora es una cadena de exactamente 8 caracteres de longitud. En los metadatos usa "`standard_name`: `time`".
 
 ---
 
