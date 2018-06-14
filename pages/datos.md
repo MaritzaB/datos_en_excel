@@ -16,16 +16,16 @@ Por lo general, una hoja de campo será distinta a la tabla en la que se guardar
 
 Por ejemplo, podríamos tener una hoja de campo para el _número de individuos avistados_ de la forma siguiente
 
-Especie   | 2015-06-15 | 2015-06-16 | 2015-06-17
-----------|------------|------------|------------
+especie   | 2015-06-15 | 2015-06-16 | 2015-06-17
+:--------:|:----------:|:----------:|:----------:
 Dragón    |         25 |         41 |         23
 Fénix     |        732 |        658 |        874
 Unicornio |          1 |          0 |          2
 
 o, tal vez, en una forma alternativa
 
-Fecha      | Dragón | Fénix  | Unicornio
------------|--------|--------|----------
+fecha      | dragon | fenix  | unicornio
+:---------:|:------:|:------:|:--------:
 2015-06-15 |     25 |    732 |        1
 2015-06-16 |     41 |    658 |        0
 2015-06-17 |     23 |    874 |        2
@@ -33,8 +33,8 @@ Fecha      | Dragón | Fénix  | Unicornio
 Las hojas de campo anteriores tienen 4 columnas y 3 renglones con datos;
 mientras que la correspondiente tabla en la que se guardan los datos tiene 3 columnas y 9 renglones con datos.
 
-Fecha      | Especie   | Número total de individuos
------------|-----------|----------------------------
+fecha      | especie   | cantidad
+:---------:|:---------:|:--------:
 2015-06-15 | Dragón    |  25
 2015-06-15 | Fénix     | 732
 2015-06-15 | Unicornio |   1
