@@ -4,7 +4,7 @@ title: Conservación de Islas
 description: Protocolo para guardar datos en Excel para ser procesados por el equipo de Ciencia de Datos de GECI
 ---
 
-En [Conservación de Islas](https://islas.org.mx) seguimos este protocolo para guardar datos en excel. Seguir este protocolo nos permite compartir datos entre proyectos distintos, agregar datos colectados en temporadas distintas, automatizar análisis, presentar nuestros resultados de manera homogénea y personalizar los resultados sin necesidad de programar.
+En [Conservación de Islas](https://islas.org.mx) seguimos este protocolo para guardar datos en Excel. Seguir este protocolo nos permite compartir datos entre proyectos distintos, agregar datos colectados en temporadas distintas, automatizar análisis, presentar nuestros resultados de manera homogénea y personalizar los resultados sin necesidad de programar.
 
 ### Contenido
 
