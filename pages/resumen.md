@@ -25,7 +25,7 @@ _Tabla: Hoja de metadatos_
 
 **name**   | **nombre_largo** | **long_name** | **standard_name** | **axis** | **titulo**                                             | **title**
 -----------|------------------|---------------|-------------------|----------|--------------------------------------------------------|------------------------------------
-**TABLA**  | NA               | NA            | NA                | NA       | Muestreo pos cuadrantes de madrigueras de aves marinas | Quadrat sampling of seabird burrows
+**TABLA**  | NA               | NA            | NA                | NA       | Muestreo por cuadrantes de madrigueras de aves marinas | Quadrat sampling of seabird burrows
 **lat**    | Latitud          | Latitude      | latitude          | Y        | NA                                                     | NA
 **lon**    | Longitud         | Longitude     | longitude         | X        | NA                                                     | NA
 **conteo** | Madrigueras      | Burrows       | NA                | NA       | NA                                                     | NA
