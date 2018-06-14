@@ -10,6 +10,26 @@ description: datos en excel
 - En la hoja de datos, cada columna representa una variable y cada renglón representa una observación.
 - En la hoja de los metadatos, cada renglón representa una variable y cada columna representa un conjunto de metadatos.
 
+Ejemplo:
+
+_Tabla: Hoja de datos_
+
+**lat**   | **lon**     | **conteo**
+----------|-------------|-----------
+31.857778 | -116.605833 | 63
+31.858147 | -116.601270 | 27
+31.859058 | -116.609134 | 54
+
+
+_Tabla: Hoja de metadatos_
+
+**name**   | **nombre_largo** | **long_name** | **standard_name** | **axis** | **titulo**                                             | **title**
+-----------|------------------|---------------|-------------------|----------|--------------------------------------------------------|------------------------------------
+**TABLA**  | NA               | NA            | NA                | NA       | Muestreo pos cuadrantes de madrigueras de aves marinas | Quadrat sampling of seabird burrows
+**lat**    | Latitud          | Latitude      | latitude          | Y        | NA                                                     | NA
+**lon**    | Longitud         | Longitude     | longitude         | X        | NA                                                     | NA
+**conteo** | Madrigueras      | Burrows       | NA                | NA       | NA                                                     | NA
+
 ---
 
 Siguiente: [Datos](datos.html).
