@@ -21,4 +21,4 @@ description: datos en excel
 
 Siguiente: [Datos](datos.html).
 
-(Inicio: [datos en excel](../index.html).)
+(Inicio: [Contenido](../index.html).)
