@@ -23,4 +23,4 @@ Para las horas usa el formato "`hh:mm:ss`", por ejemplo, "`18:00:00`". La hora e
 
 Siguiente: [Validar un archivo de Excel](validacion.html).
 
-(Anterior: [Variables independientes](axis.html).)
+(Anterior: [Coordenadas UTM](utm.html).)

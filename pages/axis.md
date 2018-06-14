@@ -23,6 +23,6 @@ Z      | Altitud                               | `altitude`
 
 ---
 
-Siguiente: [Fecha y hora](tiempo.html).
+Siguiente: [Sistema de Coordenadas](coordenadas.html).
 
 (Anterior: [Nombre estándar](standard_name.html).)
