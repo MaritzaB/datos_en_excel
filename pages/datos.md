@@ -29,7 +29,7 @@ fecha       | alcuela | mergulo | pardela | petrel
 
 La primera de las dos hojas anteriores tiene 4 columnas y 4 renglones con datos, mientras que la segunda hoja tiene 5 columnas y 3 renglones con datos. Ambas son tablas "chaparras" con pocos renglones. Ninguna de ellas es apropiada para guardar los datos en un archivo.
 
-Los datos se deben guardar siguiendo el formato [_Tidy data_](http://dx.doi.org/10.18637/jss.v059.i10). Una tabla "_tidy_" cada variable es una columna y cada observación es un renglón. Comúnmente una tabla "_tidy_" tendrá más renglones (i.e., será más "alta") que la correspondiente hoja de campo. La misma información que se encuentra en las tablas anteriores (hojas de campo) se guarda en una tabla "_tidy_" de 3 columnas y 12 renglones con datos:
+Los datos se deben guardar siguiendo el formato [_Tidy data_](http://dx.doi.org/10.18637/jss.v059.i10). En una tabla "_tidy_" cada variable es una columna y cada observación es un renglón. Comúnmente una tabla "_tidy_" tendrá más renglones (i.e., será más "alta") que la correspondiente hoja de campo. La misma información que se encuentra en las tablas anteriores (hojas de campo) se guarda en una tabla "_tidy_" de 3 columnas y 12 renglones con datos:
 
 fecha       | especie | cantidad
 :-----------|:-------:|--------:
