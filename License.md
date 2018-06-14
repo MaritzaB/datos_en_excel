@@ -1,5 +1,5 @@
 To the extent possible under law,
-[Evaristo Rojas](https://github.com/IslasGECI)
+[Conservación de Islas](https://github.com/IslasGECI)
 has waived all copyright and related or neighboring rights to
 &ldquo;[datos en excel](https://github.com/IslasGECI/datos_en_excel)&rdquo;.
 This work is published from Mexico.
