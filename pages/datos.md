@@ -8,45 +8,45 @@ description: Cómo guardar los datos en un archivo en Excel
 - Cada columna representa una variable y cada renglón representa una observación.
 - El primer renglón se usa para indicar el nombre de las variables.
 
-Los datos usan el esquema [_Tidy data_](http://dx.doi.org/10.18637/jss.v059.i10). Cada variable es una columna, cada observación es un renglón y cada tipo de unidad observacional es una tabla. Por lo tanto, todos los valores en una misma columna tienen las mismas unidades, mientras que los valores en un mismo renglón pueden tener unidades distintas.
+Por lo general, una hoja de campo donde se colectan los datos será distinta a la tabla en la que se guardarán los datos. La hoja de campo es para un biólogo (típicamente humano), mientras que la tabla en la que se guardan los datos es para una computadora.
 
-### Ejemplos
+Por ejemplo, podríamos tener una hoja de campo para el _número de individuos avistados_ de la forma siguiente:
 
-Por lo general, una hoja de campo será distinta a la tabla en la que se guardarán los datos. Es común que una tabla en la que se guardan los datos tenga más renglones que la correspondiente hoja de campo.
+especie | 15/Jun/2015 | 16/Jun/2015 | 17/Jun/2015
+:-------|------------:|------------:|-----------:
+alcuela |         152 |         142 |        125
+mergulo |           1 |           0 |          2
+pardela |          25 |          41 |         23
+petrel  |         732 |         658 |        874
 
-Por ejemplo, podríamos tener una hoja de campo para el _número de individuos avistados_ de la forma siguiente
+o, tal vez, en una forma alternativa:
 
-especie   | 2015-06-15 | 2015-06-16 | 2015-06-17
-:--------:|:----------:|:----------:|:----------:
-Dragón    |         25 |         41 |         23
-Fénix     |        732 |        658 |        874
-Unicornio |          1 |          0 |          2
+fecha       | alcuela | mergulo | pardela | petrel
+:-----------|--------:|--------:|--------:|------:
+15/Jun/2015 |     152 | 1       | 25      |   732
+16/Jun/2015 |     142 | 0       | 41      |   658
+17/Jun/2015 |     125 | 2       | 23      |   874
 
-o, tal vez, en una forma alternativa
+La primera de las dos hojas anteriores tiene 4 columnas y 4 renglones con datos, mientras que la segunda hoja tiene 5 columnas y 3 renglones con datos. Ambas son tablas "chaparras" con pocos renglones. Ninguna de ellas es apropiada para guardar los datos en un archivo.
 
-fecha      | dragon | fenix  | unicornio
-:---------:|:------:|:------:|:--------:
-2015-06-15 |     25 |    732 |        1
-2015-06-16 |     41 |    658 |        0
-2015-06-17 |     23 |    874 |        2
+Los datos se deben guardar siguiendo el formato [_Tidy data_](http://dx.doi.org/10.18637/jss.v059.i10). Una tabla "_tidy_" cada variable es una columna y cada observación es un renglón. Comúnmente una tabla "_tidy_" tendrá más renglones (i.e., será más "alta") que la correspondiente hoja de campo. La misma información que se encuentra en las tablas anteriores (hojas de campo) se guarda en una tabla "_tidy_" de 3 columnas y 12 renglones con datos:
 
-Las hojas de campo anteriores tienen 4 columnas y 3 renglones con datos;
-mientras que la correspondiente tabla en la que se guardan los datos tiene 3 columnas y 9 renglones con datos.
-
-fecha      | especie   | cantidad
-:---------:|:---------:|:--------:
-2015-06-15 | Dragón    |  25
-2015-06-15 | Fénix     | 732
-2015-06-15 | Unicornio |   1
-2015-06-16 | Dragón    |  41
-2015-06-16 | Fénix     | 658
-2015-06-16 | Unicornio |   0
-2015-06-17 | Dragón    |  23
-2015-06-17 | Fénix     | 874
-2015-06-17 | Unicornio |   2
+fecha       | especie | cantidad
+:-----------|:-------:|--------:
+15/Jun/2015 | alcuela |     152
+15/Jun/2015 | mergulo |       1
+15/Jun/2015 | pardela |      25
+15/Jun/2015 | petrel  |     732
+16/Jun/2015 | alcuela |     142
+16/Jun/2015 | mergulo |       0
+16/Jun/2015 | pardela |      41
+16/Jun/2015 | petrel  |     658
+17/Jun/2015 | alcuela |     125
+17/Jun/2015 | mergulo |       2
+17/Jun/2015 | pardela |      23
+17/Jun/2015 | petrel  |     874
 
 El primer renglón de la tabla de datos debe contener nombres únicos para cada columna.
-A veces, la cantidad de unidades es un buen indicador del número de columnas que se debe tener, considerando que todos los datos que resultan de conteos tienen el mismo tipo de unidad.
 
 ---
 
