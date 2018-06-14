@@ -11,6 +11,7 @@ En GECI seguimos este protocolo para guardar datos en excel. Seguir este protoco
 - [Introducción](pages/intro.html)
 - [Datos](pages/datos.html)
     - [Se consistente](pages/consistencia.html)
+    - [Ninguna celda vacía](pages/ninguna_celda_vacia.html)
 - [Metadatos](pages/metadatos.html)
     - [Nombre estándar](pages/standard_name.html)
     - [Variables independientes](pages/axis.html)
