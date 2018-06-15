@@ -10,7 +10,8 @@ description: Cómo guardar los datos en un archivo en Excel
 
 ---
 
-Por lo general, una hoja de campo donde se colectan los datos (con papel y lápiz) será distinta a la tabla en la que se guardarán los datos. La hoja de campo es para un biólogo (típicamente humano), mientras que la tabla en la que se guardan los datos es para una computadora.
+Por lo general, una hoja de campo donde se colectan los datos (con papel y lápiz) será distinta a la tabla de datos que se guardará en un archivo electrónico.
+La hoja de campo es para un biólogo (típicamente humano), mientras que la tabla en la que se guardan los datos es para una computadora.
 
 Por ejemplo, podríamos tener una hoja de campo para el _número de individuos avistados_ de la forma siguiente:
 
