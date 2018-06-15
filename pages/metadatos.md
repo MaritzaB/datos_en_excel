@@ -13,7 +13,11 @@ description: Cómo agregar metadatos a un archivo de datos en Excel
 - La cantidad de renglones en la hoja de metadatos es igual a la suma de la cantidad de columnas de la hoja de datos más dos.
 - Es indispensable incluir en los metadatos de las variables el `long_name` y `nombre_largo` y en los metadatos globales el `title` y `titulo`.
 
-Los metadatos proporcionan información adicional sobre los datos. La tabla siguiente muestra la lista de matadatos reconocidos por este protocolo. La columna _Tipo_ indica si el metadato es para toda la tabla o sólo para una columna.
+---
+
+Los metadatos proporcionan información adicional sobre los datos. Hay dos tipos de metadatos: los **metadatos de la tabla** y los **metadatos de cada columna**. Obviamente los metadatos de la tabla describen la tabla de datos en general mientras que los metadatos de columna describen cada columna en particular. La tabla siguiente muestra la lista de metadatos de este protocolo y para cada metadato indica si es de tabla o de columna.
+
+_Tabla: Matadatos reconocidos por este protocolo. La primer columna indica el nombre del metadato; la segunda columna indica si el metadato es para toda la tabla o sólo para una columna; la última columna describe al metadato._
 
 Metadato           | Tipo    | Descripción
 -------------------|---------|-------------
@@ -32,6 +36,25 @@ Metadato           | Tipo    | Descripción
 `nombre_largo`     | Columna | Traducción al espanol de `long_name`
 `standard_name`    | Columna | [A standard name that references a description of a variable's content in the standard name table](http://cfconventions.org/standard-names.html)
 `units`            | Columna | [Units of a variable's content](http://www.unidata.ucar.edu/software/udunits/udunits.txt)
+ 
+Cada archivo de datos en Excel debe tener en su segunda hoja una tabla con los metadatos. (En la primer hoja se guarda la tabla de datos.) Aquí hay un ejemplo de una tabla de metadatos.
+
+_Tabla: Hoja de metadatos_
+
+**name**   | **nombre_largo** | **long_name** | **standard_name** | **axis** | **titulo**                                             | **title**
+-----------|------------------|---------------|-------------------|----------|--------------------------------------------------------|------------------------------------
+**TABLA**  | NA               | NA            | NA                | NA       | Muestreo por cuadrantes de madrigueras de aves marinas | Quadrat sampling of seabird burrows
+**lat**    | Latitud          | Latitude      | latitude          | Y        | NA                                                     | NA
+**lon**    | Longitud         | Longitude     | longitude         | X        | NA                                                     | NA
+**conteo** | Madrigueras      | Burrows       | NA                | NA       | NA                                                     | NA
+
+En la tabla de metadatos el primer renglón muestra el nombre de los metadatos, el segundo renglón contiene los metadatos de la tabla de datos completa, y el resto de los renglones contienen los metadatos de cada columna de datos. La primer columna en la tabla de metadatos contiene el nombre de la tabla de datos y de sus columnas.
+
+En el ejemplo anterior, el nombre de la tabla de datos es **TABLA** y el título de la tabla es "_Muestreo por cuadrantes de madrigueras de aves marinas_". Además, la tabla de datos tiene tres columnas **lat**, **lon** y **conteo**. En la tabla de metadatos [ninguna celda está vacía](ninguna_celda_vacia.html).
+
+La información que nos proporcionan los metadatos nos ayudan a visualizar y procesar los datos. Por ejemplo, **nombre_largo** podría ser la etiqueta que usemos en los ejes de alguna gráfica. También podríamos transformar unidades de forma automática si incluímos el metadato **units**. Podríamos convertor de [coordenadas geográfica](pages/geograficas.html) a [coordenadas UTM](pages/utm.html) o viceversa al incluir los metadatos [**axis**](axis.html) y [**standard_name**](standard_name.html) correspondientes.
+
+**Los metadatos te dan cierto control sobre el aspecto que tendrán las gráficas que el equipo de Ciencia de Datos genere para ti.**
 
 ---
 
