@@ -15,7 +15,7 @@ description: Cómo agregar metadatos a un archivo de datos en Excel
 
 ---
 
-Los metadatos proporcionan información adicional sobre los datos. Hay dos tipos de metadatos: los **metadatos de la tabla** y los **metadatos de cada columna**. Obviamente los metadatos de la tabla describen la tabla de datos en general mientras que los metadatos de columna describen cada columna en particular. La tabla siguiente muestra la lista de metadatos de este protocolo y para cada metadato indica si es de tabla o de columna.
+Los metadatos proporcionan información adicional sobre los datos. Hay dos tipos de metadatos: los **metadatos de la tabla** que describen la tabla de datos en general, y los **metadatos de columna** que describen cada columna de datos en particular. La tabla siguiente muestra la lista de metadatos de este protocolo y para cada metadato indica si es de tabla o de columna.
 
 _Tabla: Matadatos reconocidos por este protocolo. La primer columna indica el nombre del metadato; la segunda columna indica si el metadato es para toda la tabla o sólo para una columna; la última columna describe al metadato._
 
