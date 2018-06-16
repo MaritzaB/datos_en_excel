@@ -57,4 +57,4 @@ Metadato           | Uso      | Descripción
 
 ---
 
-Inicio: [Protocolo para analistas de datos](index.html)
+Inicio: [Información adicional para analistas de datos](index.html)
