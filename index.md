@@ -32,6 +32,4 @@ La versión original de este protocolo se basó en el tutorial [_data organizati
 
 ---
 
-**Información adicional**:
-
-- [Protocolo para analistas de datos](pages/ciencia_de_datos/index.html)
+- [Información adicional para analistas de datos](pages/ciencia_de_datos/index.html)
