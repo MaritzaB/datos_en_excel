@@ -4,7 +4,7 @@ title: Resumen
 tagline: para analistas de datos
 ---
 
-- Recibimos cada tabla de datos en un archivo de Excel que cumple [este protocolo](../index.html)
+- Recibimos cada tabla de datos en un archivo de Excel que cumple [este protocolo](../../index.html)
 - Validamos los datos recibidos usando [GoodTables](https://goodtables.readthedocs.io)
 - Convertimos el archivo de Excel validado a [_Tabular Data Package_ (TDP)](https://frictionlessdata.io/docs/tabular-data-package/)
 - Importamos el TDP anterior a algún lenguaje de programación
