@@ -8,5 +8,6 @@ En esta sección se encuentra información adicional para los analistas del equi
 
 ### Contenido
 
+- [Resumen](resumen.html)
 - [Metadatos](metadatos.html)
 - [Código fuente](https://github.com/IslasGECI/datos_en_excel)
