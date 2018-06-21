@@ -8,6 +8,6 @@ description:
 
 ---
 
-Siguiente: [Fecha y hora](tiempo.html).
+&rarr; Siguiente: [Fecha y hora](tiempo.html).
 
-(Anterior: [Coordenadas Geográficas](geograficas.html).)
+&larr; Anterior: [Coordenadas Geográficas](geograficas.html).

@@ -62,6 +62,6 @@ No es necesario que te limites a los metadatos enlistados en la tabla anterior. 
 
 ---
 
-Siguiente: [Nombre estándar](standard_name.html).
+&rarr; Siguiente: [Nombre estándar](standard_name.html).
 
-(Anterior: [Ninguna celda vacía](ninguna_celda_vacia.html).)
+&larr; Anterior: [Ninguna celda vacía](ninguna_celda_vacia.html).

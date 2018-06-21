@@ -15,6 +15,6 @@ El autor de este protocolo se inspiró en las referencias siguientes:
 
 ---
 
-Inicio: [Contenido](../index.html).
+&uarr; Inicio: [Contenido](../index.html).
 
-(Anterior: [Validar un archivo de Excel](validacion.html).)
+&larr; Anterior: [Validar un archivo de Excel](validacion.html).

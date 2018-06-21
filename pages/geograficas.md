@@ -8,6 +8,6 @@ description:
 
 ---
 
-Siguiente: [Coordenadas UTM](utm.html).
+&rarr; Siguiente: [Coordenadas UTM](utm.html).
 
-(Anterior: [Sistemas de Coordenadas](coordenadas.html).)
+&larr; Anterior: [Sistemas de Coordenadas](coordenadas.html).

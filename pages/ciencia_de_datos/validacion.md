@@ -16,4 +16,4 @@ Usamos [_Good Tables_](https://goodtables.readthedocs.io) para validar que la ta
 
 ---
 
-Inicio: [Información adicional para analistas de datos](index.html)
+&uarr; Inicio: [Información adicional para analistas de datos](index.html)

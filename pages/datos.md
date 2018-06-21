@@ -53,6 +53,6 @@ El primer renglón de la tabla de datos debe contener nombres únicos para cada 
 
 ---
 
-Siguiente: [Se consistente](consistencia.html).
+&rarr; Siguiente: [Se consistente](consistencia.html).
 
-(Anterior: [Resumen](resumen.html).)
+&larr; Anterior: [Resumen](resumen.html).

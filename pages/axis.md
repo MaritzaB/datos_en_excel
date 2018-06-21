@@ -23,6 +23,6 @@ Z      | Altitud                               | `altitude`
 
 ---
 
-Siguiente: [Sistema de Coordenadas](coordenadas.html).
+&rarr; Siguiente: [Sistema de Coordenadas](coordenadas.html).
 
-(Anterior: [Nombre estándar](standard_name.html).)
+&larr; Anterior: [Nombre estándar](standard_name.html).

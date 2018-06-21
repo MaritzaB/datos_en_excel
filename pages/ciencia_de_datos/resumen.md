@@ -15,4 +15,4 @@ tagline: para analistas de datos
 
 ---
 
-Inicio: [Información adicional para analistas de datos](index.html)
+&uarr; Inicio: [Información adicional para analistas de datos](index.html)

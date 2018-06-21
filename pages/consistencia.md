@@ -20,6 +20,6 @@ La primera regla de la organización de datos es *ser consistente*.
 
 ---
 
-Siguiente: [Ninguna celda vacía](ninguna_celda_vacia.html).
+&rarr; Siguiente: [Ninguna celda vacía](ninguna_celda_vacia.html).
 
-(Anterior: [Datos](datos.html).)
+&larr; Anterior: [Datos](datos.html).

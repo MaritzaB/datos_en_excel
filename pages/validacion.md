@@ -8,6 +8,6 @@ En esta sección próximamente encontrarás las instrucciones para verificar si 
 
 ---
 
-Siguiente: [Referencias](referencias.html).
+&rarr; Siguiente: [Referencias](referencias.html).
 
-(Anterior: [Fecha y hora](tiempo.html).)
+&larr; Anterior: [Fecha y hora](tiempo.html).

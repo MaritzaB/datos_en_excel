@@ -32,6 +32,6 @@ _Tabla: Hoja de metadatos_
 
 ---
 
-Siguiente: [Datos](datos.html).
+&rarr; Siguiente: [Datos](datos.html).
 
-(Inicio: [Contenido](../index.html).)
+&uarr; Inicio: [Contenido](../index.html).

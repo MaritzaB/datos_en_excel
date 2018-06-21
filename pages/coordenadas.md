@@ -8,6 +8,6 @@ description:
 
 ---
 
-Siguiente: [Coordenadas Geográficas](geograficas.html).
+&rarr; Siguiente: [Coordenadas Geográficas](geograficas.html).
 
-(Anterior: [Variables independientes](axis.html).)
+&larr; Anterior: [Variables independientes](axis.html).
