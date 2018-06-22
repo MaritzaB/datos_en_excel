@@ -4,7 +4,7 @@ title: Resumen
 tagline: para analistas de datos
 ---
 
-- Recibimos cada tabla de datos en un archivo de Excel que cumple [este protocolo](../../index.html)
+- Recibimos cada tabla de datos en un archivo de Excel que cumple [este protocolo](../index.html)
 - Convertimos el archivo de Excel validado a [_Tabular Data Package_ (TDP)](https://frictionlessdata.io/docs/tabular-data-package/)
     - Convertimos la primer hoja de Excel en una tabla de datos CSV
     - Convertimos el segundo renglón de la segunda hoja de Excel en el [descriptor del TDP](https://frictionlessdata.io/specs/tabular-data-package/)
