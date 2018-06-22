@@ -1,7 +1,7 @@
 ---
 layout: page
 title: No hagas cálculos en el archivo de datos
-tagline: ni incluyas gráficas
+tagline: tampoco incluyas gráficas
 description: Los archivos de datos crudos no pueden contener cálculos ni gráficas
 ---
 
