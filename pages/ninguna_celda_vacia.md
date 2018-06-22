@@ -477,6 +477,6 @@ Aunque se repitan muchas veces los valores dentro de las celdas, **ninguna celda
 
 ---
 
-&rarr; Siguiente: [Metadatos](metadatos.html).
+&rarr; Siguiente: [No hagas cálculos en el archivo de datos](sin_calculos.html).
 
 &larr; Anterior: [Se consistente](consistencia.html).
