@@ -32,7 +32,7 @@ En el ejemplo anterior, el nombre de la tabla de datos es **TABLA** y el título
 
 En la tabla de metadatos el primer renglón muestra el nombre de los metadatos, el segundo renglón contiene los metadatos de la tabla de datos completa, y el resto de los renglones contienen los metadatos de cada columna de datos. La primer columna en la tabla de metadatos contiene el nombre de la tabla de datos y de sus columnas.
 
-La información que nos proporcionan los metadatos nos ayudan a visualizar y procesar los datos. Por ejemplo, **nombre_largo** podría ser la etiqueta que usemos en los ejes de alguna gráfica. También podríamos transformar unidades de forma automática si incluímos el metadato **units**. Podríamos convertor de [coordenadas geográfica](pages/geograficas.html) a [coordenadas UTM](pages/utm.html) o viceversa al incluir los metadatos [**axis**](axis.html) y [**standard_name**](standard_name.html) correspondientes.
+La información que nos proporcionan los metadatos nos ayudan a visualizar y procesar los datos. Por ejemplo, **nombre_largo** podría ser la etiqueta que usemos en los ejes de alguna gráfica. También podríamos transformar unidades de forma automática si incluímos el metadato **units**. Podríamos convertir de [coordenadas geográfica](pages/geograficas.html) a [coordenadas UTM](pages/utm.html) o viceversa al incluir los metadatos [**axis**](axis.html) y [**standard_name**](standard_name.html) correspondientes.
 
 ### Tipos de Metadatos
 
