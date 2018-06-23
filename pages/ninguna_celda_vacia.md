@@ -479,4 +479,4 @@ Aunque se repitan muchas veces los valores dentro de las celdas, **ninguna celda
 
 &rarr; Siguiente: [No hagas cálculos en el archivo de datos](sin_calculos.html).
 
-&larr; Anterior: [Se consistente](consistencia.html).
+&larr; Anterior: [Nombres de archivos y columnas](nomenclatura.html).
