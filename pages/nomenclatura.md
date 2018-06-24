@@ -10,8 +10,8 @@ Al nombrar archivos o columnas:
 
 - Solo puedes usar letras (excepto eñe, vocales con acentos y diéresis), números (siempre y cuando el nombre no empiece con número) y guiones bajos (`_`).
 - No uses espacios. Puedes usar guiones bajos (`_`). Además, ten cuidado que no haya espacios al final del nombre, por ejemplo, "`envergadura`" es distinto a "`envergadura `".
-- No uses símbolos. No uses `$`, `@`, `%`, `#`, `&`, `+`, `*`, `^`, `/`, `(`, `)`, `!`, `°`, `=`, `~`, etcétera. Tampoco uses eñes (`ñ`), vocales con acento (`á` `é` `í` `ó` `ú`) o diéresis (`ü`).
-- No uses abreviaturas. Los nombres deben ser descriptivos, específicos y sin ambigüedades. Por ejemplo, para la variable **temperatura** no uses `Temp`.
+- No uses símbolos. No uses `$`, `@`, `%`, `#`, `&`, `+`, `*`, `^`, `/`, `(`, `)`, `!`, `°`, `=`, `~`, etcétera. Tampoco uses eñes (`ñ`), vocales con acento (`á`, `é`, `í`, `ó`, `ú`) o diéresis (`ü`).
+- No uses abreviaturas. Los nombres deben ser descriptivos, específicos y sin ambigüedades. Por ejemplo, para la variable *temperatura* no uses `Temp`.
 
 Aquí hay una tabla con ejemplos buenos y malos:
 
