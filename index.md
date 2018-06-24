@@ -30,8 +30,8 @@ En [Conservación de Islas](https://islas.org.mx) seguimos este protocolo para g
 La versión original de este protocolo se basó en el tutorial [_data organization_](http://kbroman.org/dataorg) de [Karl Broman](http://kbroman.org).
 
 > Broman KW, Woo KH (2018) Data organization in spreadsheets.
-> _The American Statistician_ 78:2&ndash;10
-> ([doi:10.1080/00031305.2017.1375989](https://doi.org/10.1080/00031305.2017.1375989))
+> _The American Statistician_ 78:2&ndash;10.
+> [DOI:10.1080/00031305.2017.1375989](https://doi.org/10.1080/00031305.2017.1375989)
 
 ---
 
