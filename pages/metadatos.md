@@ -64,4 +64,4 @@ No es necesario que te limites a los metadatos enlistados en la tabla anterior. 
 
 &rarr; Siguiente: [Nombre estándar](standard_name.html).
 
-&larr; Anterior: [No hagas cálculos en el archivo de datos](sin_calculos.html).
+&larr; Anterior: [No uses colores en lugar de datos](sin_colores.md).
