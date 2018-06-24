@@ -9,7 +9,7 @@ Los archivos de datos crudos que serán procesados por los analistas de datos s�
 
 Si tú quieres realizar algún análisis en Excel haz una copia del archivo de datos crudos, y haz tus cálculos y gráficas en la copia.
 
-Es conveniente que nombres los archios de tal manera que sea fácil distinguir los archivos en los que puedes hacer cálculos e incluir gráficas de los que no. Por ejemplo, podrías usar el prefijo `DatosCrudos` para los archivos que serán procesados por los analistas de datos y el prefijo `Resultados` para los archivos que tú analizaras en Excel.
+Es conveniente que nombres los archivos de tal manera que sea fácil distinguir los archivos en los que puedes hacer cálculos e incluir gráficas de los que no. Por ejemplo, podrías usar el prefijo `DatosCrudos` para los archivos que serán procesados por los analistas de datos y el prefijo `Resultados` para los archivos que tú analizaras en Excel.
 
 También te recomiendo que protejas tu archivo de datos crudos contra escritura:
 
