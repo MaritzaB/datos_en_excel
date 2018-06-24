@@ -27,6 +27,6 @@ Aquí hay una tabla con ejemplos buenos y malos:
 
 ---
 
-&rarr; Siguiente: [Ninguna celda vacía](ninguna_celda_vacia.html).
+&rarr; Siguiente: [No dejes celdas vacías](ninguna_celda_vacia.html).
 
 &larr; Anterior: [Se consistente](consistencia.html)

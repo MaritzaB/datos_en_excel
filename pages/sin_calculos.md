@@ -22,4 +22,4 @@ También te recomiendo que protejas tu archivo de datos crudos contra escritura:
 
 &rarr; Siguiente: [Metadatos](metadatos.html).
 
-&larr; Anterior: [Ninguna celda vacía](ninguna_celda_vacia.html).
+&larr; Anterior: [No dejes celdas vacías](ninguna_celda_vacia.html).

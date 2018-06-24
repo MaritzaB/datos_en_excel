@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Ninguna celda vacía
-description: Llena todas las celdas
+title: No dejes celdas vacías
+description: ninguna celda vacía
 ---
 
 Ninguna celda en la hoja de datos puede quedar vacía, ni siquiera cuando no tenemos el dato. Cuando te haga falta un dato usa "`NA`" (_not available_) para indicar que el dato no está disponible.

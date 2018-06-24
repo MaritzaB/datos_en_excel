@@ -12,7 +12,7 @@ En [Conservación de Islas](https://islas.org.mx) seguimos este protocolo para g
 - [Datos](pages/datos.html)
     - [Se consistente](pages/consistencia.html)
     - [Nombres de archivos y columnas](nomenclatura.html)
-    - [Ninguna celda vacía](pages/ninguna_celda_vacia.html)
+    - [No dejes celdas vacías](pages/ninguna_celda_vacia.html)
     - [No hagas cálculos en el archivo de datos](pages/sin_calculos.html)
 - [Metadatos](pages/metadatos.html)
     - [Nombre estándar](pages/standard_name.html)
