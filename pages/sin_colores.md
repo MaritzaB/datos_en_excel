@@ -11,7 +11,7 @@ Por ejemplo, si quieres colorear los datos sopechosos o renglones que deben ser 
 
 Otro ejemplo es una tabla donde cada renglón represente un individuo y uses un código de colores para indicar si el individuo es macho (azul) o hembra (rosa). Agrega la columna "`sexo`" con valores `macho` o `hembra`.
 
-Por lo general, cuando se usan colores para señalar características de los datos se incluye una leyenda para indicar que representa cada color. Esa leyenda te esta sugiriendo los valores de una variable categórica que debe ser agregada como una nueva columna en la tabla de datos.
+Por lo general, cuando se usan colores para señalar características de los datos se incluye una leyenda para indicar qué representa cada color. Esa leyenda te esta sugiriendo los valores de una variable categórica que debe ser agregada como una nueva columna en la tabla de datos.
 
 ---
 
