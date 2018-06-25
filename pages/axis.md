@@ -25,4 +25,4 @@ Z      | Altitud                               | `altitude`
 
 &rarr; Siguiente: [Sistema de Coordenadas](coordenadas.html).
 
-&larr; Anterior: [Nombre estándar](standard_name.html).
+&larr; Anterior: [Unidades](units.html).

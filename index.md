@@ -17,6 +17,7 @@ En [Conservación de Islas](https://islas.org.mx) seguimos este protocolo para g
     - [No uses colores en lugar de datos](pages/sin_colores.md)
 - [Metadatos](pages/metadatos.html)
     - [Nombre estándar](pages/standard_name.html)
+    - [Unidades](pages/units.html)
     - [Variables independientes](pages/axis.html)
 - [Sistema de Coordenadas](pages/coordenadas.html)
     - [Coordenadas Geográfica](pages/geograficas.html)

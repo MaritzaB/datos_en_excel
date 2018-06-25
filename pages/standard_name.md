@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Nombre Estándar
+title: Nombre estándar
 description: Metadato `standard_name`
 ---
 
-Los posibles valores para el atributo `standard_name` se encuentran en [CF standard name table](http://cfconventions.org/Data/cf-standard-names/32/build/cf-standard-name-table.html).
+Los posibles valores para el metadato `standard_name` se encuentran en [CF standard name table](http://cfconventions.org/Data/cf-standard-names/32/build/cf-standard-name-table.html).
 Se crearon algunos nuevos nombres estándar que no son parte de la convención CF; para ello, se utilizó la [_Guía de construccción de nombres estándar_](http://cfconventions.org/Data/cf-standard-names/docs/guidelines.html) de la convención CF para crear nuevos nombres estándar.
 
 Standard Name                       | Long Name                  | Nombre Largo                   | Convención CF | Descripción |
