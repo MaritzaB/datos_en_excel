@@ -49,7 +49,7 @@ Metadato           | Tipo    | Descripción
 `title`            | Tabla   | [Titulo de la tabla en inglés para ser usada como encabezado dentro de un reporte. Generalmente más breve que `description`](http://www.unidata.ucar.edu/netcdf/docs/netcdf.html#Attribute-Conventions)
 `titulo`           | Tabla   | Traducción al español de `title`
 `name`             | Columna | [Noombre de la columna en la hoja de datos](http://specs.frictionlessdata.io/table-schema/#name)
-`axis`             | Columna | [Identifica coordenadas o tiempo con las letras `X`, `Y`, `Z` o `T`](http://cfconventions.org/cf-conventions/cf-conventions.html#coordinate-types)
+`axis`             | Columna | [Identifica coordenadas o tiempo con las letras `X`, `Y`, `Z` o `T`](axis.html)
 `description`      | Columna | [Descripción de la columna de datos](http://specs.frictionlessdata.io/table-schema/#description)
 `long_name`        | Columna | [Nombre descriptivo de la columna en inglés para ser usado como rótulo en los ejes de las gráficas](http://cfconventions.org/cf-conventions/cf-conventions.html#long-name)
 `nombre_largo`     | Columna | Traducción al espanol de `long_name`
