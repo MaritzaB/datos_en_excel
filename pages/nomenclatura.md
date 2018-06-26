@@ -15,8 +15,8 @@ Al nombrar archivos o columnas:
 
 Aquí hay una tabla con ejemplos buenos y malos:
 
-**buen nombre**  | **buena alternativa**         | **evita**
------------------|-------------------------------|----------
+**Buen nombre**  | **Alternativa válida**        | **Nombre no válido**
+-----------------|-------------------------------|---------------------
 `temperatura`    | `Temperatura_C`               | `Temp (°C)`
 `precipitacion`  | `Precipitacion_mm`            | `Precipitación`
 `productividad`  | `Productividad_PollosPorNido` | `Prod. pollos/nido`
