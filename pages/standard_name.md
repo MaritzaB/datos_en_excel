@@ -17,6 +17,7 @@ Standard Name                       | Long Name                  | Nombre Largo 
 `projection_x_coordinate`           | Easting                    | Coordenada Este                | Vector component along the grid x-axis, when this is not true longitude, positive with increasing x
 `projection_y_coordinate`           | Northing                   | Coordenada Norte               | vector component along the grid y-axis, when this is not true latitude, positive with increasing y
 `time`                              | Time                       | Tiempo                         | &nbsp;
+`utm_zone`                          | UTM zone                   | Zona UTM                       | One of the 60 longitudinal projection zones. (Most of these zones are 6 degrees wide.)
 
 El resto de los nombres estándares reconocidos por este protocolo se encuentran [aquí](http://cfconventions.org/Data/cf-standard-names/55/build/cf-standard-name-table.html).
 
