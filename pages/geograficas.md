@@ -6,11 +6,11 @@ description: "Para coordenadas geográficas debes incluir dos columnas: latitud 
 
 Para coordenadas geográficas debes incluir dos columnas: _latitud_ y _longitud_.
 
-Para la variable que representa la latitud usa los metadatos `axis: Y` y `standard_name: latitude`. Te recomiendo que como unidades uses `units: degree_north`.
+Para la variable que representa la latitud usa los metadatos "`axis: Y`" y "`standard_name: latitude`". Te recomiendo que como unidades uses "`units: degree_north`".
 
-Para la variable que representa la longitud usa los metadatos `axis: X` y `standard_name: longitude`. Te recomiendo que como unidades uses `units: degree_west` o `units: degree_east` según corresponda.
+Para la variable que representa la longitud usa los metadatos "`axis: X`" y "`standard_name: longitude`". Te recomiendo que como unidades uses "`units: degree_west`" o "`units: degree_east`" según corresponda.
 
-Para la variable que representa la zona UTM usa el metadato `standard_name: utm_zone`. Los valores de la columna de la zona UTM deben de ser números enteros entre 1 y 60. (Se debe omitir la letra de la zona UTM que identifica la región meridional.)
+Para la variable que representa la zona UTM usa el metadato "`standard_name: utm_zone`". Los valores de la columna de la zona UTM deben de ser números enteros entre 1 y 60. (Se debe omitir la letra de la zona UTM que identifica la región meridional.)
 
 Ejemplo:
 
