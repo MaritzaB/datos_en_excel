@@ -4,8 +4,9 @@ title: Nombre estándar
 description: Metadato `standard_name`
 ---
 
-Los posibles valores para el metadato `standard_name` se encuentran en [CF standard name table](http://cfconventions.org/Data/cf-standard-names/32/build/cf-standard-name-table.html).
-Se crearon algunos nuevos nombres estándar que no son parte de la convención CF; para ello, se utilizó la [_Guía de construccción de nombres estándar_](http://cfconventions.org/Data/cf-standard-names/docs/guidelines.html) de la convención CF para crear nuevos nombres estándar.
+Los posibles valores para el metadato `standard_name` se encuentran en [CF standard name table](http://cfconventions.org/Data/cf-standard-names/55/build/cf-standard-name-table.html). En la siguiente tabla se muestran algunos de los nombres estándares más usados.
+
+_Tabla: Ejemplo de nombres estándares reconocidos por este protocolo._
 
 Standard Name                       | Long Name                  | Nombre Largo                   | Descripción
 ------------------------------------|----------------------------|--------------------------------|--------------------------------------------------------------------
@@ -16,6 +17,10 @@ Standard Name                       | Long Name                  | Nombre Largo 
 `projection_x_coordinate`           | Easting                    | Coordenada Este                | Vector component along the grid x-axis, when this is not true longitude, positive with increasing x
 `projection_y_coordinate`           | Northing                   | Coordenada Norte               | vector component along the grid y-axis, when this is not true latitude, positive with increasing y
 `time`                              | Time                       | Tiempo                         | &nbsp;
+
+El resto de los nombres estándares reconocidos por este protocolo se encuentran [aquí](http://cfconventions.org/Data/cf-standard-names/55/build/cf-standard-name-table.html).
+
+Para incluir nuevos nombres estándares que no sean parte de la convención CF se debe utilizar la [_guía de construccción de nombres estándares_](http://cfconventions.org/Data/cf-standard-names/docs/guidelines.html) de la convención CF.
 
 ---
 
