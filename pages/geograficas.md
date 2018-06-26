@@ -10,7 +10,7 @@ Para la variable que representa la latitud usa los metadatos "`axis: Y`" y "`sta
 
 Para la variable que representa la longitud usa los metadatos "`axis: X`" y "`standard_name: longitude`". Te recomiendo que como unidades uses "`units: degree_west`" o "`units: degree_east`" según corresponda.
 
-Para la variable que representa la zona UTM usa el metadato "`standard_name: utm_zone`". Los valores de la columna de la zona UTM deben de ser números enteros entre 1 y 60. (Se debe omitir la letra de la zona UTM que identifica la región meridional.)
+Los valores de las columnas de latitud y longitud deben ser grados decimales. Ten cuidado al convertir de grados, minutos y segundos a grados decimales. Recuerda que `30° 18′` **NO** es igual a 30.18 grados. `30° 18′` es igual a 30.3 grados y 30.18 grados es igual a `30° 10′ 48″`.
 
 Ejemplo:
 
