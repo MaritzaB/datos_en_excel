@@ -42,21 +42,19 @@ _Tabla: Matadatos reconocidos por este protocolo. La primer columna indica el no
 
 Metadato           | Tipo    | Descripción
 -------------------|---------|-------------
-`name`             | Tabla   | [The name is a simple name or identifier to be used for this resource](http://specs.frictionlessdata.io/data-resource/#name)
+`name`             | Tabla   | [Nombre o identificador de esta tabla](http://specs.frictionlessdata.io/data-resource/#name)
 `id`               | Tabla   | Igual que [`name`](http://specs.frictionlessdata.io/data-resource/#name) pero sin ".", "-" ni "_"
-`path` o `data`    | Tabla   | [Property describing the location of the data associated to the resource](http://specs.frictionlessdata.io/data-resource/#data-location)
-`profile`          | Tabla   | [A string identifying the profile of this descriptor as per the profiles specification](http://specs.frictionlessdata.io/profiles/)
-`description`      | Tabla   | [A description of the resource](http://specs.frictionlessdata.io/data-resource/#optional-properties)
-`source`           | Tabla   | [The method of production of the original data](http://cfconventions.org/cf-conventions/cf-conventions.html#description-of-file-contents)
-`title`            | Tabla   | [A succinct description of what is in the dataset (written in English)](http://www.unidata.ucar.edu/netcdf/docs/netcdf.html#Attribute-Conventions)
+`description`      | Tabla   | [Descripción detallada de la tabla. Generalmente más larga que `titulo` y `title`](http://specs.frictionlessdata.io/data-resource/#optional-properties)
+`source`           | Tabla   | [Fuente de los datos originales](http://cfconventions.org/cf-conventions/cf-conventions.html#description-of-file-contents)
+`title`            | Tabla   | [Titulo de la tabla en inglés para ser usada como encabezado dentro de un reporte. Generalmente más breve que `description`](http://www.unidata.ucar.edu/netcdf/docs/netcdf.html#Attribute-Conventions)
 `titulo`           | Tabla   | Traducción al español de `title`
-`name`             | Columna | [This property should correspond to the name of field/column in the data file](http://specs.frictionlessdata.io/table-schema/#name)
-`axis`             | Columna | [Identifies latitude, longitude, vertical, or time axes](http://cfconventions.org/cf-conventions/cf-conventions.html#coordinate-types)
-`description`      | Columna | [A description for this field](http://specs.frictionlessdata.io/table-schema/#description)
-`long_name`        | Columna | [A descriptive name that indicates a variable's content (written in English). This name is not standardized ](http://cfconventions.org/cf-conventions/cf-conventions.html#long-name)
+`name`             | Columna | [Noombre de la columna en la hoja de datos](http://specs.frictionlessdata.io/table-schema/#name)
+`axis`             | Columna | [Identifica coordenadas o tiempo con las letras `X`, `Y`, `Z` o `T`](http://cfconventions.org/cf-conventions/cf-conventions.html#coordinate-types)
+`description`      | Columna | [Descripción de la columna de datos](http://specs.frictionlessdata.io/table-schema/#description)
+`long_name`        | Columna | [Nombre descriptivo de la columna en inglés para ser usado como rótulo en los ejes de las gráficas](http://cfconventions.org/cf-conventions/cf-conventions.html#long-name)
 `nombre_largo`     | Columna | Traducción al espanol de `long_name`
-`standard_name`    | Columna | [A standard name that references a description of a variable's content in the standard name table](http://cfconventions.org/standard-names.html)
-`units`            | Columna | [Units of a variable's content](http://www.unidata.ucar.edu/software/udunits/udunits.txt)
+`standard_name`    | Columna | [Nombre estándar de la variable](standard_name.html)
+`units`            | Columna | [Unidades de los valores de la columna de datos](units.html)
 
 No es necesario que te limites a los metadatos enlistados en la tabla anterior. Puedes agregar cualquier metadato que te ayude a comunicar la historia detallada detrás de los datos.
 
