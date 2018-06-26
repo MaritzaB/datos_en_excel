@@ -6,11 +6,11 @@ description: "Para coordenadas UTM debes incluir tres columnas: coordenada Este,
 
 Para coordenadas UTM debes incluir tres columnas: _coordenada Este_, _coordenada Norte_ y _zona UTM_.
 
-Para la variable que representa la coordenada Este usa los metadatos `axis: X` y `standard_name: projection_x_coordinate`. Te recomiendo que como unidades uses `units: mE`.
+Para la variable que representa la coordenada Este usa los metadatos "`axis: X`" y "`standard_name: projection_x_coordinate`". Te recomiendo que como unidades uses "`units: mE`".
 
-Para la variable que representa la coordenada Norte usa los metadatos `axis: Y` y `standard_name: projection_y_coordinate`. Te recomiendo que como unidades uses `units: mN`.
+Para la variable que representa la coordenada Norte usa los metadatos "`axis: Y`" y "`standard_name: projection_y_coordinate`". Te recomiendo que como unidades uses "`units: mN`".
 
-Para la variable que representa la zona UTM usa el metadato `standard_name: utm_zone`. Los valores de la columna de la zona UTM deben de ser números enteros entre 1 y 60. (Se debe omitir la letra de la zona UTM que indica la región meridional.)
+Para la variable que representa la zona UTM usa el metadato "`standard_name: utm_zone`". Los valores de la columna de la zona UTM deben de ser números enteros entre 1 y 60. (Se debe omitir la letra de la zona UTM que indica la región meridional.)
 
 Ejemplo:
 
