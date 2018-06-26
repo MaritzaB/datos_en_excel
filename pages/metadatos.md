@@ -28,7 +28,7 @@ _Tabla: Ejemplo de tabla de metadatos_
 **lon**    | Longitud         | Longitude     | longitude         | X        | NA                                                     | NA
 **conteo** | Madrigueras      | Burrows       | NA                | NA       | NA                                                     | NA
 
-En el ejemplo anterior, el nombre de la tabla de datos es **TABLA** y el título de la tabla es "_Muestreo por cuadrantes de madrigueras de aves marinas_". Además, la tabla de datos tiene tres columnas **lat**, **lon** y **conteo**. ([Aquí](resumen.html) puedes ver la tabla de datos correspondiente.) También se aprecia en el ejemplo anterior que [ninguna celda está vacía](ninguna_celda_vacia.html); se indica con "NA" que "_no aplica_" o que no se cuenta con el valor faltante.
+En el ejemplo anterior, el nombre de la tabla de datos es **TABLA** y el título de la tabla es "_Muestreo por cuadrantes de madrigueras de aves marinas_". Además, la tabla de datos tiene tres columnas **lat**, **lon** y **conteo**. ([Aquí](resumen.html) puedes ver la tabla de datos correspondiente.) También se aprecia en el ejemplo anterior que [ninguna celda está vacía](celdas_vacias.html); se indica con "NA" que "_no aplica_" o que no se cuenta con el valor faltante.
 
 En la tabla de metadatos el primer renglón muestra el nombre de los metadatos, el segundo renglón contiene los metadatos de la tabla de datos completa, y el resto de los renglones contienen los metadatos de cada columna de datos. La primer columna en la tabla de metadatos contiene el nombre de la tabla de datos y de sus columnas.
 
