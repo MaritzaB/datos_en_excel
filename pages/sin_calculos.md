@@ -22,4 +22,4 @@ También te recomiendo que protejas tu archivo de datos crudos contra escritura:
 
 &rarr; Siguiente: [No uses colores en lugar de datos](sin_colores.md).
 
-&larr; Anterior: [No dejes celdas vacías](celdas_vacias.html).
+&larr; Anterior: [No fusiones celdas](fusionar_celdas.html).

@@ -477,6 +477,6 @@ Aunque se repitan muchas veces los valores dentro de las celdas, **ninguna celda
 
 ---
 
-&rarr; Siguiente: [No hagas cálculos en el archivo de datos](sin_calculos.html).
+&rarr; Siguiente: [No fusiones celdas](fusionar_celdas.html).
 
 &larr; Anterior: [Nombres de archivos y columnas](nomenclatura.html).
