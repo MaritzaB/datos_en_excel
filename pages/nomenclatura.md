@@ -15,15 +15,15 @@ Al nombrar archivos o columnas:
 
 Aquí hay una tabla con ejemplos buenos y malos:
 
-**buen nombre**       | **buena alternativa**         | **evita**
---------------------- | ----------------------------- | ---------
-`temperatura`         | `Temperatura_C`               | `Temp (°C)`
-`precipitacion`       | `Precipitacion_mm`            | `Precipitación`
-`productividad`       | `Productividad_PollosPorNido` | `Prod. pollos/nido`
-`sexo`                | `Sexo`                        | `Macho/Hembra`
-`peso`                | `Peso`                        | `p.`
-`tipo_de_rastro`      | `TipoDeRastro`                | `Tipo de rastro`
-`primer_huevo`        | `Huevo1`                      | `1er huevo`
+**buen nombre**  | **buena alternativa**         | **evita**
+-----------------|-------------------------------|----------
+`temperatura`    | `Temperatura_C`               | `Temp (°C)`
+`precipitacion`  | `Precipitacion_mm`            | `Precipitación`
+`productividad`  | `Productividad_PollosPorNido` | `Prod. pollos/nido`
+`sexo`           | `Sexo`                        | `Macho/Hembra`
+`peso`           | `Peso`                        | `p.`
+`tipo_de_rastro` | `TipoDeRastro`                | `Tipo de rastro`
+`primer_huevo`   | `Huevo1`                      | `1er huevo`
 
 ---
 
