@@ -11,7 +11,7 @@ El autor de este protocolo se inspiró en las referencias siguientes:
 - [CF standard name table](http://cfconventions.org/Data/cf-standard-names/27/build/cf-standard-name-table.html)
 - [_Good Tables_ para Python](https://frictionlessdata.io/specs/tabular-data-package/)
 - [JSON Schema para Python](https://github.com/Julian/jsonschema)
-
+- [Tabular Data Package](https://frictionlessdata.io/specs/tabular-data-package/)
 
 
 ---
