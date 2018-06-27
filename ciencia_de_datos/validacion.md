@@ -12,7 +12,7 @@ Usamos [jsonschema](https://github.com/Julian/jsonschema) para validar que:
 - el [descriptor del recurso de datos tabulados](http://frictionlessdata.io/specs/tabular-data-resource/) (generado a partir del resto de la segunda hoja de Excel) cumple con [este JSON Schema](http://frictionlessdata.io/schemas/tabular-data-resource.json), y
 - el [esquema de la tabla](http://frictionlessdata.io/specs/table-schema/) (especificado por el [descriptor del recurso de datos tabulados](http://frictionlessdata.io/specs/tabular-data-resource/)) cumple con [este JSON Schema](http://frictionlessdata.io/schemas/table-schema.json).
 
-Usamos [_Good Tables_](https://goodtables.readthedocs.io) para validar que la tabla de datos CSV (generada a partir de la primer hoja del archivo de Excel) cumple con el [esquema de la tabla](http://frictionlessdata.io/specs/table-schema/) (especificado por el [descriptor del recurso de datos tabulados](http://frictionlessdata.io/specs/tabular-data-resource/))
+Usamos [_Good Tables_](https://github.com/frictionlessdata/goodtables-py) para validar que la tabla de datos CSV (generada a partir de la primer hoja del archivo de Excel) cumple con el [esquema de la tabla](http://frictionlessdata.io/specs/table-schema/) (especificado por el [descriptor del recurso de datos tabulados](http://frictionlessdata.io/specs/tabular-data-resource/))
 
 ---
 
