@@ -58,4 +58,6 @@ Metadato           | Uso      | Descripción
 
 ---
 
-&uarr; Inicio: [Información adicional para analistas de datos](index.html)
+&rarr; Siguiente: [Validar un archivo de Excel](validacion.html)
+
+&larr; Atras: [Resumen](resumen.html)
