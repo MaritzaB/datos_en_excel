@@ -21,12 +21,12 @@ Cada archivo de datos en Excel debe tener en su segunda hoja una tabla con los m
 
 _Tabla: Ejemplo de tabla de metadatos_
 
-**name**   | **nombre_largo** | **long_name** | **standard_name** | **axis** | **titulo**                                             | **title**
------------|------------------|---------------|-------------------|----------|--------------------------------------------------------|------------------------------------
-**TABLA**  | NA               | NA            | NA                | NA       | Muestreo por cuadrantes de madrigueras de aves marinas | Quadrat sampling of seabird burrows
-**lat**    | Latitud          | Latitude      | latitude          | Y        | NA                                                     | NA
-**lon**    | Longitud         | Longitude     | longitude         | X        | NA                                                     | NA
-**conteo** | Madrigueras      | Burrows       | NA                | NA       | NA                                                     | NA
+**name**   | **nombre_largo** | **long_name** | **standard_name** | **axis** | **units**     | **titulo**                                             | **title**
+-----------|------------------|---------------|-------------------|----------|---------------|--------------------------------------------------------|------------------------------------
+**TABLA**  | NA               | NA            | NA                | NA       | NA            | Muestreo por cuadrantes de madrigueras de aves marinas | Quadrat sampling of seabird burrows
+**lat**    | Latitud          | Latitude      | latitude          | Y        | degree_north  | NA                                                     | NA
+**lon**    | Longitud         | Longitude     | longitude         | X        | degree_west   | NA                                                     | NA
+**conteo** | Madrigueras      | Burrows       | NA                | NA       | NA            | NA                                                     | NA
 
 En el ejemplo anterior, el nombre de la tabla de datos es **TABLA** y el título de la tabla es "_Muestreo por cuadrantes de madrigueras de aves marinas_". Además, la tabla de datos tiene tres columnas **lat**, **lon** y **conteo**. ([Aquí](resumen.html) puedes ver la tabla de datos correspondiente.) También se aprecia en el ejemplo anterior que [ninguna celda está vacía](celdas_vacias.html); se indica con "NA" que "_no aplica_" o que no se cuenta con el valor faltante.
 

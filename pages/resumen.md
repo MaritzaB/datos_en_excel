@@ -23,12 +23,12 @@ _Tabla: Hoja de datos_
 
 _Tabla: Hoja de metadatos_
 
-**name**   | **nombre_largo** | **long_name** | **standard_name** | **axis** | **titulo**                                             | **title**
------------|------------------|---------------|-------------------|----------|--------------------------------------------------------|------------------------------------
-**TABLA**  | NA               | NA            | NA                | NA       | Muestreo por cuadrantes de madrigueras de aves marinas | Quadrat sampling of seabird burrows
-**lat**    | Latitud          | Latitude      | latitude          | Y        | NA                                                     | NA
-**lon**    | Longitud         | Longitude     | longitude         | X        | NA                                                     | NA
-**conteo** | Madrigueras      | Burrows       | NA                | NA       | NA                                                     | NA
+**name**   | **nombre_largo** | **long_name** | **standard_name** | **axis** | **units**     | **titulo**                                             | **title**
+-----------|------------------|---------------|-------------------|----------|---------------|--------------------------------------------------------|------------------------------------
+**TABLA**  | NA               | NA            | NA                | NA       | NA            | Muestreo por cuadrantes de madrigueras de aves marinas | Quadrat sampling of seabird burrows
+**lat**    | Latitud          | Latitude      | latitude          | Y        | degree_north  | NA                                                     | NA
+**lon**    | Longitud         | Longitude     | longitude         | X        | degree_west   | NA                                                     | NA
+**conteo** | Madrigueras      | Burrows       | NA                | NA       | NA            | NA                                                     | NA
 
 ---
 
