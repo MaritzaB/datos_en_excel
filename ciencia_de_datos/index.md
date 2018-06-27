@@ -11,4 +11,5 @@ En esta sección se encuentra información adicional para los analistas del [equ
 - [Resumen](resumen.html)
 - [Metadatos](metadatos.html)
 - [Validar un archivo de Excel](validacion.html)
+- [Referencias](referencias.html)
 - [Código fuente de este sitio](https://github.com/IslasGECI/datos_en_excel)
