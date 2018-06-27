@@ -11,7 +11,7 @@ description: Cómo guardar los datos en un archivo en Excel
 ---
 
 Por lo general, una hoja de campo donde se colectan los datos (con papel y lápiz) será distinta a la tabla de datos que se guardará en un archivo electrónico.
-La hoja de campo es para un biólogo (típicamente humano), mientras que la tabla en la que se guardan los datos es para una computadora.
+La hoja de campo es para un biólogo, mientras que la tabla en la que se guardan los datos es para una computadora.
 
 Por ejemplo, podríamos tener una hoja de campo para el _número de individuos avistados_ de la forma siguiente:
 
@@ -30,9 +30,9 @@ fecha       | alcuela | mergulo | pardela | petrel
 16/Jun/2015 |     142 | 0       | 41      |   658
 17/Jun/2015 |     125 | 2       | 23      |   874
 
-La primera de las dos hojas anteriores tiene 4 columnas y 4 renglones con datos, mientras que la segunda hoja tiene 5 columnas y 3 renglones con datos. Ambas son tablas "chaparras" con pocos renglones. Ninguna de ellas es apropiada para guardar los datos en un archivo.
+La primera de las dos hojas anteriores tiene 4 columnas y 4 renglones con datos, mientras que la segunda hoja tiene 5 columnas y 3 renglones con datos. Ambas son tablas "chaparras", es decir, con pocos renglones. Ninguna de ellas es apropiada para ser procesadas con las herramientas automatizadas del equipo de Ciencia de Datos de GECI.
 
-Los datos se deben guardar siguiendo el formato [_Tidy data_](http://dx.doi.org/10.18637/jss.v059.i10). En una tabla "_tidy_" cada variable es una columna y cada observación es un renglón. Comúnmente una tabla "_tidy_" tendrá más renglones (i.e., será más "alta") que la correspondiente hoja de campo. La misma información que se encuentra en las tablas anteriores (hojas de campo) se guarda en una tabla "_tidy_" de 3 columnas y 12 renglones con datos:
+Los datos deben seguir el formato [_tidy data_](http://dx.doi.org/10.18637/jss.v059.i10). En una tabla _tidy_ cada variable es una columna y cada observación es un renglón. Comúnmente una tabla _tidy_ tendrá más renglones (i.e., será más "alta") que la correspondiente hoja de campo. La misma información que se encuentra en las tablas anteriores (hojas de campo) se guarda en una tabla _tidy_ de 3 columnas y 12 renglones con datos:
 
 fecha       | especie | cantidad
 :-----------|:-------:|--------:
