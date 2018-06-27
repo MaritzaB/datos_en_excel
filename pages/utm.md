@@ -10,7 +10,7 @@ Para la variable que representa la coordenada Este usa los metadatos "`axis: X`"
 
 Para la variable que representa la coordenada Norte usa los metadatos "`axis: Y`" y "`standard_name: projection_y_coordinate`". Te recomiendo que como unidades uses "`units: mN`".
 
-Para la variable que representa la zona UTM usa el metadato "`standard_name: utm_zone`". Los valores de la columna de la zona UTM están compuestos por un número entero entre 1 y 60 indicando la zona longitudinal y una letra entre C y X (excepto I y O) indicando la zona meridional.
+Para la variable que representa la zona UTM usa el metadato "`standard_name: utm_zone`". Los valores de la columna de la zona UTM están compuestos por un número entero entre 1 y 60 indicando la zona longitudinal y una letra entre C y X (excepto I y O) indicando la zona meridional. [Aquí](http://www.dmap.co.uk/utmworld.htm) puedes ver un mapa con los números y letras de las zonas UTM.
 
 Ejemplo:
 
