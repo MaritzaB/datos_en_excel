@@ -10,7 +10,7 @@ Para la variable que representa la coordenada Este usa los metadatos "`axis: X`"
 
 Para la variable que representa la coordenada Norte usa los metadatos "`axis: Y`" y "`standard_name: projection_y_coordinate`". Te recomiendo que como unidades uses "`units: mN`".
 
-Para la variable que representa la zona UTM usa el metadato "`standard_name: utm_zone`". Los valores de la columna de la zona UTM deben de ser números enteros entre 1 y 60. (Se debe omitir la letra de la zona UTM que indica la región meridional.)
+Para la variable que representa la zona UTM usa el metadato "`standard_name: utm_zone`". Los valores de la columna de la zona UTM están compuestos por un número entero entre 1 y 60 indicando la zona longitudinal y una letra entre C y X (excepto I y O) indicando la zona meridional.
 
 Ejemplo:
 
@@ -18,9 +18,9 @@ _Tabla: Hoja de datos_
 
 **x**  | **y**   | **zona** | **conteo**
 -------|---------|----------|-----------
-375774 | 3211856 | 11       | 63
-375493 | 3212124 | 11       | 27
-374958 | 3212535 | 11       | 54
+375774 | 3211856 | 11R      | 63
+375493 | 3212124 | 11R      | 27
+374958 | 3212535 | 11R      | 54
 
 
 _Tabla: Hoja de metadatos_
