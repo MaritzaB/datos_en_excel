@@ -8,8 +8,9 @@ En esta sección se encuentra información adicional para los analistas del [equ
 
 ### Contenido
 
-- [Resumen](resumen.html)
-- [Metadatos](metadatos.html)
-- [Validar un archivo de Excel](validacion.html)
-- [Referencias](referencias.html)
+1. [Resumen](resumen.html)
+1. [Metadatos](metadatos.html)
+1. [Validar un archivo de Excel](validacion.html)
+1. [Referencias](referencias.html)
+
 - [Código fuente de este sitio](https://github.com/IslasGECI/datos_en_excel)
