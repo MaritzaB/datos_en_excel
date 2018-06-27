@@ -19,6 +19,27 @@ Para las fechas usa el formato "`DD/MMM/AAAA`", por ejemplo, "`01/Ene/2018`". La
 
 Para las horas usa el formato "`hh:mm:ss`", por ejemplo, "`18:00:00`". La hora es una cadena de exactamente 8 caracteres de longitud. En los metadatos usa "`standard_name`: `time`".
 
+Ejemplo:
+
+_Tabla: Hoja de datos_
+
+**fecha**   | **hora** | **conteo**
+------------|----------|-----------
+07/Oct/1998 | 13:00:00 | 63
+07/Oct/1998 | 13:30:00 | 27
+07/Oct/1998 | 14:00:00 | 54
+
+
+_Tabla: Hoja de metadatos_
+
+**name**   | **nombre_largo**          | **long_name**     | **standard_name** | **axis** | **titulo**               | **title**
+-----------|---------------------------|-------------------|-------------------|----------|--------------------------|---------------------
+**TABLA**  | NA                        | NA                | NA                | NA       | Conteo de aves avistadas | Bird sighting counts
+**fecha**  | Fecha de avistamiento     | Date of sighting  | date              | T        | NA                       | NA
+**hora**   | Hora de avistamiento      | Time of sighting  | time              | T        | NA                       | NA
+**conteo** | Cantidad de avistamientos | Sighting counts   | NA                | NA       | NA                       | NA
+
+
 ---
 
 &rarr; Siguiente: [Validar un archivo de Excel](validacion.html).
