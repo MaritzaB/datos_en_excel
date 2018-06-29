@@ -25,6 +25,16 @@ Aquí hay una tabla con ejemplos buenos y malos:
 `tipo_de_rastro` | `TipoDeRastro`                | `Tipo de rastro`
 `primer_huevo`   | `Huevo1`                      | `1er huevo`
 
+En el nombre del archivo incluye siempre en el mismo orden:
+
+- La variable (dependiente) de interés
+- El tipo de monitoreo, método de muestreo o instrumento de medición
+- El nombre de la especie o grupo biológico
+- La isla o región geográfica
+- La fecha de última actualización
+
+Por ejemplo: "`Conteo_Transectos_Cangrejos_Chinchorro_01Ago2018.xls`", "`Madrigueras_Cuadrantes_AvesMarinas_PacificoNorte_01Ene2018`", "`Nidos_Censo_Albatros_Guadalupe_01Ene2018`", etc.
+
 ---
 
 &rarr; Siguiente: [No dejes celdas vacías](celdas_vacias.html).

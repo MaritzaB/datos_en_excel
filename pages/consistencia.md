@@ -10,7 +10,7 @@ La regla más importante de la organización de datos es *ser consistente*.
 
 - **Usa "`NA`" cuando te haga falta un dato.** Ninguna celda en la hoja de datos puede quedar vacía, ni siquiera cuando no tenemos el dato. En GECI usamos "`NA`" (_not available_) para indicar que el dato no está disponible. Además, no insertes una nota en lugar del dato faltante explicando por qué falta. Más bien agrega dicha nota en una columna para notas.
 
-- **Usa nombres de archivos consistentes.** Nombra tus archivos indicando, siempre en el mismo orden, el tipo de monitoreo (o simplemente la palabra Datos), variable(s), especie (o grupo), isla (o región geográfica) y fecha de última actualización. E.g. "`Censo_Nidos_Albatros_Guadalupe_01Ene2018`", "`Busqueda_Madrigueras_AvesMarinas_PacificoNorte_01Ene2018`", etc. Además, no uses espacios, usa guion bajo "`_`".
+- **Usa nombres de archivos consistentes.** Nombra tus archivos indicando: la variable de interés, método de muestreo, especie monitoreada, isla, y fecha de última actualización. E.g: "`Madrigueras_Cuadrantes_AvesMarinas_PacificoNorte_01Ene2018`", "`Conteo_Transectos_Cangrejos_Chinchorro_01Ago2018.xls`", "`Nidos_Censo_Albatros_Guadalupe_01Ene2018`", etc. En lugar de espacios usa guion bajo "`_`".
 
 - **Usa el formato "`DD/MMM/AAAA`" para todas las fechas** Por ejemplo, "`07/Oct/1998`", "`01/Ene/2000`", etc.
 
