@@ -60,4 +60,4 @@ Metadato           | Uso      | Descripción
 
 &rarr; Siguiente: [Validar un archivo de Excel](validacion.html)
 
-&larr; Atras: [Resumen](resumen.html)
+&larr; Anterior: [Resumen](resumen.html)

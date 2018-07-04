@@ -14,3 +14,9 @@ En esta sección se encuentra información adicional para los analistas del [equ
 1. [Referencias](referencias.html)
 
 - [Código fuente de este sitio](https://github.com/IslasGECI/datos_en_excel)
+
+---
+
+&rarr; Siguiente: [Resumen](resumen.html)
+
+&larr; Anterior: [Protocolo para guardar datos en Excel](../)

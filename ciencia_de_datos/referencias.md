@@ -16,6 +16,6 @@ El autor de este protocolo se inspiró en las referencias siguientes:
 
 ---
 
-&uarr; Inicio: [Información adicional para analistas de datos](index.html)
+&rarr; Siguiente: [Información adicional para analistas de datos](index.html)
 
-&larr; Atrás: [Validar un archivo de Excel](validacion.html)
+&larr; Anterior: [Validar un archivo de Excel](validacion.html)

@@ -17,4 +17,4 @@ Usamos [_Good Tables_](https://github.com/frictionlessdata/goodtables-py) para v
 
 &rarr; Siguiente: [Referencias](referencias.html)
 
-&larr; Atrás: [Metadatos](metadatos.html)
+&larr; Anterior: [Metadatos](metadatos.html)

@@ -17,4 +17,4 @@ tagline: para analistas de datos
 
 &rarr; Siguiente: [Metadatos](metadatos.html)
 
-&uarr; Inicio: [Información adicional para analistas de datos](index.html)
+&larr; Anterior: [Información adicional para analistas de datos](index.html)
