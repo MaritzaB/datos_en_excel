@@ -39,4 +39,5 @@ La versión original de este protocolo se basó en el tutorial [_data organizati
 
 ---
 
+- [Descargar PDF](https://readthedocs.org/projects/datos-en-excel/downloads/pdf/latest/)
 - [Información adicional para analistas de datos](ciencia_de_datos)
