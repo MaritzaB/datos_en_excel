@@ -7,3 +7,4 @@ Este es el protocolo de `Conservación de Islas <https://islas.org.mx>`_ para gu
     :maxdepth: 2
 
     resumen
+    intro
