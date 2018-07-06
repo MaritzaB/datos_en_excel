@@ -14,7 +14,7 @@ Nota que este protocolo está pensado para procesar tus datos mediante algún le
 
 ----
 
-La versión original de este protocolo se basó en el tutorial `*data organization* <http://kbroman.org/dataorg>`_ de `Karl Broman <http://kbroman.org>`_.
+La versión original de este protocolo se basó en el tutorial `data organization <http://kbroman.org/dataorg>`_ de `Karl Broman <http://kbroman.org>`_.
 
     Broman KW, Woo KH (2018) Data organization in spreadsheets.
     *The American Statistician* 78:2-10.
@@ -23,4 +23,4 @@ La versión original de este protocolo se basó en el tutorial `*data organizati
 ----
 
 - `Descargar PDF <https://readthedocs.org/projects/datos-en-excel/downloads/pdf/latest/>`_
-- `Información adicional para analistas de datos <ciencia_de_datos>`_
+- `Información adicional para analistas de datos <https://islasgeci.github.io/datos_en_excel/ciencia_de_datos>`_
