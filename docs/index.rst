@@ -5,8 +5,7 @@ Este es el protocolo de `Conservación de Islas <https://islas.org.mx>`_ para gu
 
 Nota que este protocolo está pensado para procesar tus datos mediante algún lenguaje de programación (por ejemplo R), no para procesar tus datos en Excel. Los archivos de Excel los usamos únicamente para recibir tus datos. Si tú planeas analizar o graficar tus datos en Excel, tal vez no te convenga seguir este protocolo.
 
-Contenido
----------
+**Contenido**:
 
 .. toctree::
    :maxdepth: 2
