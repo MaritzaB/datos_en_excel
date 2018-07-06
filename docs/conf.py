@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 #
-# Read the Docs Template documentation build configuration file, created by
-# sphinx-quickstart on Tue Aug 26 14:19:49 2014.
-#
 # This file is execfile()d with the current directory set to its
 # containing dir.
 #
@@ -43,8 +40,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Read the Docs Template'
-copyright = u'2014, Read the Docs'
+project = u'Protocolo para guardar datos en Excel'
+copyright = u'2018, Conservación de Islas'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
